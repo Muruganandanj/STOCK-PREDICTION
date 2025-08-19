@@ -4,11 +4,11 @@ columns of the data include 1.symbol 2.date 3.close 4.high 5. low 6. open 7.volu
 10.adjLow 11.adjOpen 12.adjVolume
 
 
-We have only considered the close value and date and transformed the close value into furher four columns woth some computations like shift and rolling(mean)
+We have only considered the close value and date and transformed the close value into further four columns with some computations like shift and rolling(mean)
 
 
 
-Based on the above data our model will predict how much loan can be sanctioned to a customer.
+Based on the above data our model will predict how much will be stock price for upcoming days.
 
 Process of operations
 
